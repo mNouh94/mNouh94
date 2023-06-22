@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mNouh94
-- 👀 I’m interested in ... mobile developing, football
-- 🌱 I’m currently learning ... flutter, php
+- 👀 I’m interested in ... mobile development (Flutter), football
+- 🌱 I’m currently learning ... flutter
 - 💞️ I’m looking to collaborate on ... not now!
 - 📫 How to reach me ... via email: mnouh@streamline.com.ly
 
