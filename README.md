@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mNouh94
+- 👋 Hi, It's mNouh
 - 👀 I’m interested in ... mobile development (Flutter), football
-- 🌱 I’m currently learning ... flutter
-- 💞️ I’m looking to collaborate on ... not now!
+- 🌱 I’m currently working as ... flutter developer / marketplace owner: wisp.ly
 - 📫 How to reach me ... via email: mnouh@wisp.ly || mnouh@streamline.com.ly
 
 <!---
